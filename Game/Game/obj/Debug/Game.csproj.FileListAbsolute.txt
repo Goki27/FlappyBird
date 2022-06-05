@@ -1,0 +1,10 @@
+E:\unity practice\flappy brid\Game\Game\bin\Debug\Game.exe.config
+E:\unity practice\flappy brid\Game\Game\bin\Debug\Game.exe
+E:\unity practice\flappy brid\Game\Game\bin\Debug\Game.pdb
+E:\unity practice\flappy brid\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+E:\unity practice\flappy brid\Game\Game\obj\Debug\Game.Form1.resources
+E:\unity practice\flappy brid\Game\Game\obj\Debug\Game.Properties.Resources.resources
+E:\unity practice\flappy brid\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+E:\unity practice\flappy brid\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+E:\unity practice\flappy brid\Game\Game\obj\Debug\Game.exe
+E:\unity practice\flappy brid\Game\Game\obj\Debug\Game.pdb
